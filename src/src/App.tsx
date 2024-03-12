@@ -3,7 +3,7 @@ const App = () => {
     <div>
       <h1>Bem vindo ao mundo React</h1>
       <button>eu sou um botão html</button>
-      <main>
+
         <ul>
           <li>
             PONTO 1
@@ -21,7 +21,7 @@ const App = () => {
           <li> number 2</li>
           <li> number 3</li>
         </ol>
-      </main>
+    
     </div>
   );
 }
