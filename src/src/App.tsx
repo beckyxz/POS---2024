@@ -15,7 +15,7 @@ const App = () => {
             PONTO 3
           </li>
         </ul>
-        <h2>NUMEROS PRIMEIROS 3333333</h2>
+        <h2>NUMEROS PRIMEIROS 123</h2>
         <ol>
           <li> number 1</li>
           <li> number 2</li>
